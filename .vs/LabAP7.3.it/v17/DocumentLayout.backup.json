@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\vital\\source\\repos\\LabAP7.3.it\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E015E721-388A-435E-A194-D8E1EDE77DB5}|LabAP7.3.it\\LabAP7.3.it.vcxproj|C:\\Users\\vital\\source\\repos\\LabAP7.3.it\\LabAP7.3.it\\LabAP7.3.it.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E015E721-388A-435E-A194-D8E1EDE77DB5}|LabAP7.3.it\\LabAP7.3.it.vcxproj|solutionrelative:LabAP7.3.it\\LabAP7.3.it.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FAE8D7C4-A04C-4F73-858D-C4B48D907CF7}|UnitTest7.3.it\\UnitTest7.3.it.vcxproj|C:\\Users\\vital\\source\\repos\\LabAP7.3.it\\UnitTest7.3.it\\UnitTest7.3.it.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FAE8D7C4-A04C-4F73-858D-C4B48D907CF7}|UnitTest7.3.it\\UnitTest7.3.it.vcxproj|solutionrelative:UnitTest7.3.it\\UnitTest7.3.it.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UnitTest7.3.it.cpp",
+              "DocumentMoniker": "C:\\Users\\vital\\source\\repos\\LabAP7.3.it\\UnitTest7.3.it\\UnitTest7.3.it.cpp",
+              "RelativeDocumentMoniker": "UnitTest7.3.it\\UnitTest7.3.it.cpp",
+              "ToolTip": "C:\\Users\\vital\\source\\repos\\LabAP7.3.it\\UnitTest7.3.it\\UnitTest7.3.it.cpp",
+              "RelativeToolTip": "UnitTest7.3.it\\UnitTest7.3.it.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-06T16:43:34.804Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LabAP7.3.it.cpp",
+              "DocumentMoniker": "C:\\Users\\vital\\source\\repos\\LabAP7.3.it\\LabAP7.3.it\\LabAP7.3.it.cpp",
+              "RelativeDocumentMoniker": "LabAP7.3.it\\LabAP7.3.it.cpp",
+              "ToolTip": "C:\\Users\\vital\\source\\repos\\LabAP7.3.it\\LabAP7.3.it\\LabAP7.3.it.cpp*",
+              "RelativeToolTip": "LabAP7.3.it\\LabAP7.3.it.cpp*",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAADgAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-06T16:43:07.482Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
